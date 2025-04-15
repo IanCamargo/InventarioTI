@@ -16,7 +16,7 @@ Este projeto consiste em um sistema web para gerenciamento do inventário de equ
 
 * 👨🏻‍🏫 Francisco Adão Eloy Junior
 
-**Autores:**
+**Autor:**
 
 - **Ian Camargo** - [@IanCamargo](https://github.com/IanCamargo)
 
